@@ -1,4 +1,4 @@
-# 🧠 Disease Predictor AI  
+# ⚕️ Disease Predictor AI  
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahulBansal-24/Disease-Predictor-AI/blob/main/Disease_Predictor_AI.ipynb)
 
@@ -122,4 +122,5 @@ This project is licensed under the **GNU General Public License (GPL)** — see 
 ### ❤️ Support
 
 If you found this project useful, please ⭐ **star the repository** to show your support and help others discover it!
+
 
