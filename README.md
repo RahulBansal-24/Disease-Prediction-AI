@@ -63,7 +63,7 @@ You can open and run the notebook directly in Colab using the badge above, or fo
 
 1. Open [Google Colab](https://colab.research.google.com/)  
 2. Go to **File → Open Notebook → GitHub tab**  
-3. Paste URl: https://github.com/RahulBansal-24/Disease-Predictor-AI
+3. Paste URl: https://github.com/RahulBansal-24/Disease-Prediction-AI
 4. Open `Disease_Predictor_AI.ipynb` and run all cells  
 
 ---
@@ -122,5 +122,6 @@ This project is licensed under the **GNU General Public License (GPL)** — see 
 ### ❤️ Support
 
 If you found this project useful, please ⭐ **star the repository** to show your support and help others discover it!
+
 
 
